@@ -68,7 +68,7 @@
 
 } /* end of 750 px screen */
 
-@media only screen and (max-width 600px){
+@media only screen and (max-width: 600px){
   #navbar nav a{
     display: none;
   }
