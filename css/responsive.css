@@ -66,4 +66,20 @@
     column-count: 1;
   }
 
+} /* end of 750 px screen */
+
+@media only screen and (max-width 600px){
+  #navbar nav a{
+    display: none;
+  }
+
+  #navbar nav a.menu-icon{
+    display: block;
+    float: right;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    width: auto;
+    
+  }
 }
+
