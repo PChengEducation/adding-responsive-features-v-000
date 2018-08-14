@@ -25,16 +25,15 @@
     height: 20px;
   }
 
-  @logo h2{
+  #logo h2{
     font-size: 1em;
   }
 
-  @social {
+  #social {
     top: 72px;
   }
 }
 
-@media only screen and (max-width: 640px){
   #navbar nav a{
     font-size: 0.9em;
   }
